@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dev-rezaul
+- 👋 Hi, I’m dev-rezaul
 - 👀 I’m interested in cooding
 - 🌱 I’m currently learning Frontend and FullStack Technologies (html,css,javaScript, ReactJS, SQL, Java, Adv. Java)
 - 💞️ I love to explore new trends and always open to learning new technologies.
